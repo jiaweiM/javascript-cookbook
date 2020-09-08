@@ -1,1 +1,3 @@
-﻿alert("I'm JavaScript!");
+﻿"use strict"
+
+window.alert("I'm JavaScript!");
